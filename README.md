@@ -3,3 +3,15 @@
 前端是采用vue.js框架与ElemeUI写的.[前端源代码](https://github.com/lipses/BookShop/tree/fore-end)
 # 后端
 后端采用MVC框架,用JAVA语言与MySQL一起写的.[前端源代码](https://github.com/lipses/BookShop/tree/back-end)
+
+## 贡献
+
+<a href="https://github.com/lamprose">
+  <img src="https://avatars0.githubusercontent.com/u/29279979" width="45px">
+</a>
+<a href="https://github.com/raoxueliang">
+    <img src="https://avatars0.githubusercontent.com/u/28750992" width="45px">
+</a>
+<a href="https://github.com/SongLiyun">
+    <img src="https://avatars0.githubusercontent.com/u/49939107" width="45px">
+</a>
